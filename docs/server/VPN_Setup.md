@@ -6,7 +6,7 @@
 2. Install (default settings should be fine)
 3. Open OpenVPN GUI (should be linked on desktop)
 
-![Icon](/Images/openvpn.png)
+![Icon](../Images/openvpn.png)
 
 ## Setup the software
 
