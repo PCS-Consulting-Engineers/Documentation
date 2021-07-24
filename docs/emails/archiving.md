@@ -1,6 +1,6 @@
 # Archiving
 
-As mentioned in the [overview](overview.md), your account should have 100GB of storage + 100GB of archiving storage. The archiving is what this page focuses on.
+As mentioned in the [overview](./overview.md), your account should have 100GB of storage + 100GB of archiving storage. The archiving is what this page focuses on.
 
 ## 100GB? Unlimited?
 
