@@ -11,4 +11,4 @@ To login, ensure you use a client which supports exchange (like Outlook), then s
 
 ## Storage
 
-This plan includes 100GB of storage in your normal mailbox, plus 100GB in archiving. The archive can also increase in size indefinitely. See [archiving](archiving.md) for further details.
+This plan includes 100GB of storage in your normal mailbox, plus 100GB in archiving. The archive can also increase in size indefinitely. See [archiving](emails/archiving.md) for further details.
